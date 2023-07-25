@@ -1,3 +1,6 @@
+Fue creada y diseñada con una API .Net Core de estudiantes, una sola tabla con Id, Name y Course de cada estudiante.
+La api es RESTful, simple, sin validaciones ni Autorizaciones
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
